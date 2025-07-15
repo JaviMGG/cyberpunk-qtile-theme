@@ -4,7 +4,7 @@
 picom --config ~/.config/picom/picom.conf &
 
 # Establecer fondo de pantalla cyberpunk
-feh --bg-fill ~/.config/qtile/themes/cyberpunk/wallpaper.jpg &
+feh --bg-fill ~/.config/themes/cyberpunk/wallpaper.jpg &
 
 # Iniciar servicios de notificación
 dunst &
