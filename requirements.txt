@@ -1,0 +1,16 @@
+# Dependencias principales
+qtile>=0.22.1
+pycairo>=1.23.0
+cairocffi>=1.5.1
+
+# Para animaciones y efectos
+pygobject>=3.44.1
+xlib>=0.21
+
+# Widgets personalizados
+psutil>=5.9.5
+dbus-next>=0.2.3
+
+# Utilidades
+pillow>=10.0.0  # Para manejo de imágenes
+requests>=2.31.0  # Para widgets que requieran datos en línea
