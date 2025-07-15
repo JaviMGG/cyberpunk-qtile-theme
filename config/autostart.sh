@@ -18,6 +18,3 @@ pasystray &
 
 # Establecer distribución de teclado
 setxkbmap es &
-
-# Iniciar efectos de animación personalizados
-~/.config/qtile/scripts/animaciones.py &
